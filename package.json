@@ -1,0 +1,23 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "11/8/2017 In class work",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs0865121/ExpressServer.git"
+  },
+  "author": "RLS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rs0865121/ExpressServer/issues"
+  },
+  "homepage": "https://github.com/rs0865121/ExpressServer#readme"
+}
